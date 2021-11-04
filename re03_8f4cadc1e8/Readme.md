@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/57956165/140246711-4c46ef92-65fa-4aa2-8d16-68dd5866f0de.png)
 
-+ Đầu tiên ở hàm if này nó sẽ kiểm tra tất cả các file này có toofn tại hay không
++ Đầu tiên ở hàm if này nó sẽ kiểm tra tất cả các file này có tồn tại hay không
 
 ![image](https://user-images.githubusercontent.com/57956165/140246820-b027ac3a-ff7d-4541-8476-0d29558d9e2b.png)
 
@@ -27,7 +27,11 @@
 
 ![image](https://user-images.githubusercontent.com/57956165/140247831-4dee103b-ddd3-475f-ba9b-0269127df41d.png)
 
-+ Ở đoạn code này, nó sẽ đọc tất cả các ký tự ở trong file, mỗi lần đọc một ký tự thì nó sẽ cộng với V27
++ Đây chính là đoạn code nó sử dụng để encrypt file
+
+![image](https://user-images.githubusercontent.com/57956165/140249143-b60ea30e-9fab-482f-965a-047397137647.png)
+
++ Ở đoạn code này, nó sẽ đọc tất cả các ký tự ở trong file, mỗi lần đọc một ký tự thì nó sẽ cộng với V27 => kết quả được file .enc
 
 ![image](https://user-images.githubusercontent.com/57956165/140248225-f5c0c661-95c9-4118-b37f-c40094eece78.png)
 
